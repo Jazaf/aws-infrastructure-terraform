@@ -9,7 +9,9 @@
   ## Setup
   1. Clone the repository.
   2. Create a 'terraform.tfvars' file and fill in your AWS credentials and key pair name :
-  '''hcl
+
+     
+  ```hcl
 
   aws_access_key = "your-access-key"
   aws_secret_key = "your-secret-key"
